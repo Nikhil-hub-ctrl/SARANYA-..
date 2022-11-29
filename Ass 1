@@ -1,0 +1,6 @@
+pin=input()
+if len(pin)==4:
+print("continue the transactions")
+else:
+print("incorrect pin number")
+print("try again")
